@@ -1,3 +1,4 @@
+console.log('teste')
 // Funcao para retornar um valor randomico 
 function randomNumber (start, end) { return Phaser.Math.Between(start, end) }
 
